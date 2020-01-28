@@ -1,3 +1,3 @@
 # holbertonschool-zero_day
 
-*Test* _test_
+*Test*
